@@ -1,0 +1,17 @@
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\bin\Debug\net8.0\RM-97032-WEB-SCRAPPING.exe
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\bin\Debug\net8.0\RM-97032-WEB-SCRAPPING.deps.json
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\bin\Debug\net8.0\RM-97032-WEB-SCRAPPING.runtimeconfig.json
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\bin\Debug\net8.0\RM-97032-WEB-SCRAPPING.dll
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\bin\Debug\net8.0\RM-97032-WEB-SCRAPPING.pdb
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\bin\Debug\net8.0\HtmlAgilityPack.dll
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.csproj.AssemblyReference.cache
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.AssemblyInfoInputs.cache
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.AssemblyInfo.cs
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.csproj.CoreCompileInputs.cache
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032.F4415B4C.Up2Date
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.dll
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\refint\RM-97032-WEB-SCRAPPING.dll
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.pdb
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\RM-97032-WEB-SCRAPPING.genruntimeconfig.cache
+C:\Users\ti1_febrapo\Downloads\RM-97032-WEB-SCRAPPING\RM-97032-WEB-SCRAPPING\obj\Debug\net8.0\ref\RM-97032-WEB-SCRAPPING.dll

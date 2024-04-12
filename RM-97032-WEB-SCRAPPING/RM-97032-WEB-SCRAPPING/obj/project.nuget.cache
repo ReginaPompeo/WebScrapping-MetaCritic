@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AeeblSeot6bvqKzkQIfrr4G4s9bf+j//k+YWW/d3dPh0mA3jYaP8bGB3AFus76+Hn5f7voWwWXeF744ua3KWRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ti1_febrapo\\Downloads\\RM-97032-WEB-SCRAPPING\\RM-97032-WEB-SCRAPPING\\RM-97032-WEB-SCRAPPING.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ti1_febrapo\\.nuget\\packages\\htmlagilitypack\\1.11.59\\htmlagilitypack.1.11.59.nupkg.sha512"
+  ],
+  "logs": []
+}
